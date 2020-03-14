@@ -328,7 +328,7 @@ Hello World: LED blinken
 Die Funktionalität zum Zugriff auf Hardware ist im Modul ``machine`` zusammengefasst. Es ist dokumentiert auf http://docs.micropython.org/en/latest/library/machine.html. Um ein Modul zu benützen, muss es *importiert* werden. Das ``import``-Statement macht zwei Dinge:
 
 1. Es führt den Python-Code aus, der das Modul definiert. Was solcher Code typischerweise macht, ist Funktionen und Klassen zu definieren.
-2. Es macht unter dem importierten Namen das Modul-Objekt im aktuellen Kontext verfügbar, auf dem die in Schritt 1 definierten Funktionen und Klassen als Attribute verfügbar sind.
+2. Es macht unter dem importierten Namen das Modul-Objekt im aktuellen Kontext verfügbar. Auf dem Modul-Objekt sind die in Schritt 1 definierten Funktionen und Klassen als Attribute verfügbar.
 
 Schritt 1 wird nur beim erstmaligen Importieren ausgeführt, danach wird das Modul-Objekt im Speicher behalten.
 

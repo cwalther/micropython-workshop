@@ -42,7 +42,7 @@ Schritt 15: Lobby als Menu anzeigen
 
 *Mitschreiben*
 
-*Neues:* ``pew_menu``-API, Slice-Zuweisung, List Comprehension mit ``ìf``
+*Neues:* Menu-API, Slice-Zuweisung, List Comprehension mit ``ìf``
 
 Schritt 16: Herausfordern
 -------------------------
