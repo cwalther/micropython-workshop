@@ -3,18 +3,18 @@ MicroPython installieren
 
 Schliesse das Feather-Board, noch ohne aufgesetztes PewPew, mit dem USB-Kabel an deinen Computer an.
 
-Lade von http://micropython.org/download unter *Firmware for ESP8266 boards* die aktuelle stabile Version herunter, zur Zeit *esp8266-20190529-v1.11.bin*.
+Lade von http://micropython.org/download unter *Firmware for ESP8266 boards* die aktuelle stabile Version herunter, zur Zeit *esp8266-20191220-v1.12.bin*.
 
 Folge dann den Anweisungen im dort verlinkten Tutorial http://docs.micropython.org/en/latest/esp8266/tutorial/intro.html#deploying-the-firmware. In Kürze:
 
 .. code-block:: sh
 
    esptool.py --port <port> erase_flash
-   esptool.py --port <port> --baud 460800 write_flash --flash_size=detect 0 esp8266-20190529-v1.11.bin
+   esptool.py --port <port> --baud 460800 write_flash --flash_size=detect 0 esp8266-20191220-v1.12.bin
 
 wobei für ``<port>`` der Name des verwendeten seriellen Anschlusses eingesetzt wird, so etwas wie ``/dev/cu.SLAB_USBtoUART`` auf macOS, ``/dev/ttyUSB0`` auf Linux oder ``COM4`` auf Windows.
 
-Öffne mit einem Terminal-Emulations-Programm eine Verbindung auf denselben seriellen Anschluss mit 115200 Baud, z.B. auf macOS und Linux mittels
+Öffne mit einem Terminal-Emulations-Programm eine Verbindung auf denselben seriellen Anschluss mit 115200 Baud. Falls eine Einstellung für Flow-Control vorhanden ist, muss diese ausgeschaltet sein. Auf macOS und Linux beispielsweise
 
 .. code-block:: sh
 
@@ -36,7 +36,7 @@ Drücke ctrl-D. Damit wird MicroPython neu gestartet, und du siehst einige Meldu
 
 .. code-block:: none
 
-   MicroPython v1.11-8-g48dcbbe60 on 2019-05-29; ESP module with ESP8266
+   MicroPython v1.12 on 2019-12-20; ESP module with ESP8266
 
 Drücke den Reset-Knopf (*RST*) auf dem Feather-Board. Im Terminal erscheint eine Menge unverständlicher Zeichen. Das sind die Boot-Meldungen des ESP8266, sie können interessant sein, wenn etwas nicht funktioniert. Weil sie mit einer anderen Baud-Rate gesendet werden, kann das Terminal, das auf 115200 Baud eingestellt ist, sie nicht richtig erkennen. Verbinde stattdessen mit 74880 Baud, um sie zu sehen. Nicht alle Terminal-Programme können das, weil es keine Standard-Rate ist – eines, das es kann, ist *miniterm.py*, welches als Teil von pySerial mit esptool.py mitkommt:
 
