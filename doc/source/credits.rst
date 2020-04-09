@@ -32,7 +32,7 @@ Widerstand und LED
 Copyright und Lizenz
 --------------------
 
-© 2019 Christian Walther ‹cwalther@gmx.ch›
+© 2019–2020 Christian Walther ‹cwalther@gmx.ch›
 
 This work is licensed under a `Creative Commons Attribution-ShareAlike 4.0 International License <https://creativecommons.org/licenses/by-sa/4.0/>`_.
 

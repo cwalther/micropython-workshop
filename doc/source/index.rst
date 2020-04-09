@@ -18,5 +18,7 @@ MicroPython auf ESP8266 für Python-Anfänger
 .. only:: html
 
    .. toctree::
+      :caption: Anhang
 
+      preparation
       credits
