@@ -21,4 +21,5 @@ MicroPython auf ESP8266 für Python-Anfänger
       :caption: Anhang
 
       preparation
+      schedule
       credits

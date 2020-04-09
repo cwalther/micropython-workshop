@@ -158,7 +158,7 @@ latex_documents = [
 
 latex_show_urls = 'footnote'
 
-latex_appendices = ['preparation', 'credits']
+latex_appendices = ['preparation', 'schedule', 'credits']
 
 # suppress the python module index that would only list "pew"
 latex_domain_indices = False
