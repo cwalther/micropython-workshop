@@ -78,6 +78,9 @@ Ausprobieren
 
 *Übung:* Benützt die REPL, um euch mit dem MQTT-Server ``test.mosquitto.org`` zu verbinden und euch gegenseitig Meldungen zu senden!
 
-*Tipp:* Um Meldungen zu empfangen, muss eine Callback-Funktion angegeben werden. Da in der Dokumentation nicht klar beschrieben ist, was für Argumente diese Funktion erhält, kann zum Ausprobieren einfach mal die eingebaute Funktion ``print`` übegeben werden – sie akzeptiert eine beliebige Zahl von Argumenten, und ihrem Output sieht man dann an, welche es waren.
+*Tipp:*
+
+* Als ``client_id`` für ``MQTTClient()`` kann ein Leerstring ``''`` angegeben werden. (Die ``client_id``, zusammen mit ``clean_session=False`` bei ``connect()``, kommt nur dann zum Zug, wenn eine früher unterbrochene Sitzung wieder aufgenommen werden soll, was hier nicht nötig ist.)
+* Um Meldungen zu empfangen, muss eine Callback-Funktion angegeben werden. Da in der Dokumentation nicht klar beschrieben ist, was für Argumente diese Funktion erhält, kann zum Ausprobieren einfach mal die eingebaute Funktion ``print`` übegeben werden – sie akzeptiert eine beliebige Zahl von Argumenten, und ihrem Output sieht man dann an, welche es waren.
 
 .. [#] Eine gute detaillierte Abhandlung dazu gibt es bei Peter Hinch: https://github.com/peterhinch/micropython-samples/tree/master/resilient.
