@@ -70,6 +70,8 @@ Schritt 9: Beenden
 
 *Mitschreiben:* Nach einem Gewinn die normale Tastenbehandlung stoppen und beim nächsten Tastendruck das Programm beenden.
 
+Da das Programm nun sauber beenden kann und nicht mehr mit ctrl-C unterbrochen werden muss, kann es auch aus dem Menu gestartet werden und kehrt nach dem Beenden zum Menu zurück. Das erspart einem das ständige ``del sys.modules['four']; import four``. Drücke ctrl-D, um MicroPython neu zu starten, so dass *main.py* ausgeführt wird und das Menu anzeigt. Der Neustart unterbricht die WebREPL-Verbindung, sie kann aber nachher wieder aufgebaut werden, um trotzdem die Ausgabe des Programms und eventuelle Fehlermeldungen zu sehen.
+
 Schritt 10: Animation
 ---------------------
 
