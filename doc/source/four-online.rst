@@ -30,6 +30,14 @@ Schritt 13: Präsenz in die Lobby publizieren
 
 *Neues:* ``import as``, Dateien lesen und schreiben, ``with``, ``try … finally``
 
+Solange unser eigenes Programm noch keine Meldungen empfängt, kann mit einem MQTT-Client auf dem Computer verfolgt werden, was auf dem Server läuft, z.B.
+
+.. code-block:: sh
+
+   mosquitto_sub -h mqtt.kolleegium.ch -t fourinarow/# -F "%t '%p' (%x)"
+
+(von http://mosquitto.org/download/)
+
 Schritt 14: Lobby abonnieren
 ----------------------------
 
