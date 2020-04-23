@@ -69,9 +69,11 @@ Schritt 18: Cursor abonnieren
 
 *Mitschreiben:* Beide Cursors zeichnen.
 
+*Neues:* ternärer Operator ``a if c else b``
+
 *Übung:* Abonniere die Cursor-Position des Gegners und aktualisiere die Variable ``opcursor``, wenn sie sich ändert.
 
-*Neues:* ternärer Operator ``a if c else b``
+*Tipp:* Du kannst eine neue Callback-Funktion setzen, um während des Spiels die Meldungen zu verarbeiten. Sie ersetzt die bisherige, die nicht mehr gebraucht wird. Die neue Funktion wird allerdings immer noch auch die Meldungen aus der Lobby empfangen – von denen sollten wir uns eigentlich abmelden, aber leider gibt es in ``umqtt`` keine ``unsubscribe``-Methode, die scheint einfach vergessen gegangen zu sein (MQTT unterstützt die Funktionalität durchaus).
 
 Schritt 19: Zug publizieren
 ---------------------------
