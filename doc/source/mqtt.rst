@@ -76,7 +76,7 @@ Häufig verwendete Encodings, und auch die einzigen, die von MicroPython unterst
 Ausprobieren
 ------------
 
-*Übung:* Benützt die REPL, um euch mit dem MQTT-Server ``test.mosquitto.org`` zu verbinden und euch gegenseitig Meldungen zu senden!
+*Übung:* Benützt die REPL, um euch mit dem MQTT-Server ``mqtt.kolleegium.ch`` zu verbinden und euch gegenseitig Meldungen zu senden!
 
 *Tipp:*
 
