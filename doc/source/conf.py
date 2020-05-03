@@ -21,6 +21,7 @@
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
 
+import subprocess
 
 # -- General configuration ------------------------------------------------
 
@@ -49,6 +50,7 @@ master_doc = 'index'
 project = 'MicroPython auf ESP8266'
 copyright = '2019, Christian Walther'
 author = 'Christian Walther'
+today = str(subprocess.check_output(['git', 'describe', '--always', '--dirty']).rstrip(), 'utf-8') + ' ' + str(subprocess.check_output(['git', 'show', '-s', '--format=%cd', '--date=short', 'HEAD']).rstrip(), 'utf-8')
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
