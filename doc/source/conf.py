@@ -22,6 +22,7 @@
 # sys.path.insert(0, os.path.abspath('.'))
 
 import subprocess
+import os
 
 # -- General configuration ------------------------------------------------
 
@@ -50,7 +51,11 @@ master_doc = 'index'
 project = 'MicroPython auf ESP8266'
 copyright = '2019, Christian Walther'
 author = 'Christian Walther'
-today = str(subprocess.check_output(['git', 'describe', '--always', '--dirty']).rstrip(), 'utf-8') + ' ' + str(subprocess.check_output(['git', 'show', '-s', '--format=%cd', '--date=short', 'HEAD']).rstrip(), 'utf-8')
+gitdescribeargs = ['git', 'describe', '--always']
+# no use checking dirtiness on RTD, it's always dirty because it adds stuff to the bottom of this file
+if 'READTHEDOCS' not in os.environ:
+	gitdescribeargs.append('--dirty')
+today = str(subprocess.check_output(gitdescribeargs).rstrip(), 'utf-8') + ' ' + str(subprocess.check_output(['git', 'show', '-s', '--format=%cd', '--date=short', 'HEAD']).rstrip(), 'utf-8')
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
