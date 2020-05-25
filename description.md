@@ -2,7 +2,7 @@
 
 _Der Kurs findet vorläufig online per Videokonferenz statt. Später ist geplant, ihn auch als Präsenzveranstaltung im FabLab durchzuführen._
 
-Du möchtest die Programmiersprache Python kennenlernen? Die Allzweck-Sprache läuft auf vielen Geräten, warum nicht auf einem Mikrocontroller beginnen und damit ein hübsches Spielzeug programmieren?
+Du hast schon Erfahrung mit Programmieren und möchtest nun die Programmiersprache Python kennenlernen? Die Allzweck-Sprache läuft auf vielen Geräten, warum nicht auf einem Mikrocontroller beginnen und damit ein hübsches Spielzeug programmieren?
 
 Lange Zeit wurden Mikrocontroller ausschliesslich in kompilierten Sprachen wie C/C++ programmiert: das Programm wird auf dem Entwicklercomputer in Maschinensprache übersetzt (kompiliert), auf den Mikrocontroller geladen, dort neu gestartet, Fehler gesucht und im Quellcode korrigiert, und wieder von vorne los. Inzwischen sind sie leistungsfähig genug geworden, dass auch High-Level-Sprachen wie Lua, JavaScript und Python verwendet werden können. Diese sind nicht nur leichter zu lernen, sondern es kann mit ihnen auch interaktiv direkt auf dem Mikrocontroller experimentiert werden, was den Schreiben-Kompilieren-Testen-Zyklus aufbricht und die Entwicklung deutlich verschnellert.
 
@@ -36,17 +36,19 @@ _Online-Kurs:_ Zusätzlich wird eine Webcam benötigt, damit andere dein Gerät 
 
 #### Teilnehmerzahl:
 
-min. 3, max. 6 Personen
+min. 3, max. 4 Personen (Online-Kurs), max. 6 Personen (Präsenzkurs)
 
 #### Kursdauer:
 
-- Vier Abende à 3-4 Stunden.
+- Vier Abende à 4 Stunden.
 - _Präsenzkurs:_ Optionaler Vorkurs, 2 Stunden, zum Zusammenlöten der Hardware (einfache Through-Hole-Teile). Wer nicht am Vorkurs teilnimmt, erhält ein vom Kursleiter gelötetes Teil.
 - _Online-Kurs:_ Kein Vorkurs, alle Teilnehmer erhalten fertig gelötete Teile per Post.
 
 #### Kosten:
 
 Material (Adafruit Feather HUZZAH, PewPew Lite, LiPo-Akku, USB-Kabel, Jumper-Drähte, Widerstand, LED) ~ CHF 40
+
+_Online-Kurs:_ Postversand ~ CHF 5
 
 43 Seiten Unterlagen
 
