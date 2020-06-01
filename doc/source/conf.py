@@ -170,6 +170,8 @@ latex_appendices = ['preparation', 'schedule', 'credits']
 # suppress the python module index that would only list "pew"
 latex_domain_indices = False
 
+latex_logo = 'title.jpeg'
+
 
 # -- Options for manual page output ---------------------------------------
 

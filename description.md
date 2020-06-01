@@ -1,5 +1,7 @@
 # MicroPython auf ESP8266 für Python-Anfänger
 
+![title](description-title.jpeg)
+
 _Der Kurs findet vorläufig online per Videokonferenz statt. Später ist geplant, ihn auch als Präsenzveranstaltung im FabLab durchzuführen._
 
 Du hast schon Erfahrung mit Programmieren und möchtest nun die Programmiersprache Python kennenlernen? Die Allzweck-Sprache läuft auf vielen Geräten, warum nicht auf einem Mikrocontroller beginnen und damit ein hübsches Spielzeug programmieren?
