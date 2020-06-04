@@ -46,6 +46,8 @@ Drücke den Reset-Knopf (*RST*) auf dem Feather-Board. Im Terminal erscheint ein
 
 Damit sollten die Boot-Meldungen lesbar herauskommen. Dafür sind jetzt die darauf folgenden Meldungen von MicroPython unverständlich, welche mit 115200 Baud gesendet wurden.
 
+Um ``screen`` zu beenden, drücke ctrl-A, dann K. Um ``miniterm.py`` zu beenden, ctrl-] (US-Tastatur) oder ctrl-¨ (CH-Tastatur).
+
 Netzwerk und WebREPL einrichten
 ===============================
 

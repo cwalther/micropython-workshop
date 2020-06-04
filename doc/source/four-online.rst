@@ -23,12 +23,26 @@ Protokolldesign
 | ``fourinarow/game/``\ *Name*\ ``/drop``   |        | Kolonne 0-6 als Byte                     |                                            |
 +-------------------------------------------+--------+------------------------------------------+--------------------------------------------+
 
+Dateien lesen und schreiben
+---------------------------
+
+*Demo:* *boot.py* lesen.
+
+*Mitschreiben auf REPL:* Den eigenen Namen in eine Datei schreiben. ::
+
+   >>> with open('four-name', 'wb') as f:                                                                                                
+   ...     f.write(b'Ich')                                                                                                               
+   ...                                                                                                                                   
+   3
+
+*Neues:* ``open()``, ``file.read()``, ``file.write()``, ``file.close()``, ``with``
+
 Schritt 13: Präsenz in die Lobby publizieren
 --------------------------------------------
 
-*Mitschreiben*
+*Mitschreiben im Programm*
 
-*Neues:* ``import as``, Dateien lesen und schreiben, ``with``, ``try … finally``
+*Neues:* ``import as``, ``try … finally``
 
 Solange unser eigenes Programm noch keine Meldungen empfängt, kann mit einem MQTT-Client auf dem Computer verfolgt werden, was auf dem Server läuft, z.B.
 
@@ -81,7 +95,10 @@ Schritt 18: Cursor abonnieren
 
 *Übung:* Abonniere die Cursor-Position des Gegners und aktualisiere die Variable ``opcursor``, wenn sie sich ändert.
 
-*Tipp:* Du kannst eine neue Callback-Funktion setzen, um während des Spiels die Meldungen zu verarbeiten. Sie ersetzt die bisherige, die nicht mehr gebraucht wird. Die neue Funktion wird allerdings immer noch auch die Meldungen aus der Lobby empfangen – von denen sollten wir uns eigentlich abmelden, aber leider gibt es in ``umqtt`` keine ``unsubscribe``-Methode, die scheint einfach vergessen gegangen zu sein (MQTT unterstützt die Funktionalität durchaus).
+*Tipp:*
+
+* Du kannst eine neue Callback-Funktion setzen, um während des Spiels die Meldungen zu verarbeiten. Sie ersetzt die bisherige, die nicht mehr gebraucht wird. Die neue Funktion wird allerdings immer noch auch die Meldungen aus der Lobby empfangen – von denen sollten wir uns eigentlich abmelden, aber leider gibt es in ``umqtt`` keine ``unsubscribe``-Methode, die scheint einfach vergessen gegangen zu sein (MQTT unterstützt die Funktionalität durchaus).
+* Um die in ``bytes`` kodierte Zahl wieder zurück zu wandeln, hole durch Indizieren ``[]`` das erste Element heraus, es ist direkt eine Zahl.
 
 Schritt 19: Zug publizieren
 ---------------------------

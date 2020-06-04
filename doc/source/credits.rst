@@ -36,5 +36,7 @@ Copyright und Lizenz
 
 This work is licensed under a `Creative Commons Attribution-ShareAlike 4.0 International License <https://creativecommons.org/licenses/by-sa/4.0/>`_.
 
+Mit Dank an die Tester Patrick Gubelmann und Claudio Prezzi für wertvolle Anregungen.
+
 .. _CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
 .. _CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/

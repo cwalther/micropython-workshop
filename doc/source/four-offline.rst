@@ -1,7 +1,9 @@
 Vier Gewinnt Teil 1: Offline
 ============================
 
-Zur späteren Referenz: Der Code für alle folgenden Schritte ist verfügbar auf https://github.com/cwalther/micropython-workshop-fourinarow/commits/master. Während des Kurses brauchen wir das aber nicht. 
+Zur späteren Referenz: Der Code für alle folgenden Schritte ist verfügbar auf https://github.com/cwalther/micropython-workshop-fourinarow/commits/master. Während des Kurses brauchen wir das aber nicht.
+
+Schritt 1 war das Programm-Skelett aus dem letzten Kapitel. Wir bauen es nun schrittweise aus.
 
 Schritt 2: Cursor
 -----------------
@@ -18,7 +20,7 @@ Schritt 3: ``main()``-Funktion
 
 *Mitschreiben:* Den Code in eine Funktion einpacken. Dies hat folgende Vorteile:
 
-* Die Funktion kann nochmals aufgerufen werden, ohne dass das Modul nochmals importiert werden muss.
+* Die Funktion kann nochmals aufgerufen werden, ohne dass das Modul nochmals importiert werden muss. (Das funktioniert jedoch nur, wenn der Import fehlerfrei abläuft. Das ist bei uns bisher nicht der Fall, da wir ihn, wegen unendlicher Schleife, mit ctrl-C abbrechen. In diesem Fall wird der zweite Teil des Imports, das Verfügbarmachen im aktuellen Kontext unter dem importierten Namen, nicht ausgeführt. Das kann aber mit einem erneuten Import nachgeholt werden, da das unfertige Modulobjekt in ``sys.modules`` vorhanden ist.)
 * In MicroPython sind lokale Variablen effizienter als globale.
 
 
@@ -45,7 +47,7 @@ Schritt 6: Brett anzeigen und Stein platzieren
 
 *Mitschreiben:* Brett anzeigen.
 
-*Übung:* Platziere bei einem Zug den neuen Stein am richtigen Ort auf dem Brett. Finde dazu mit einer ``while``-Schleife den untersten noch freien Platz in der Spalte unter dem Cursor.
+*Übung:* Platziere bei einem Zug den neuen Stein am richtigen Ort auf dem Brett (noch ohne Animation, direkt an die endgültige Position). Finde dazu mit einer ``while``-Schleife den untersten noch freien Platz in der Spalte unter dem Cursor.
 
 Schritt 7: Gewinn horizontal
 ----------------------------

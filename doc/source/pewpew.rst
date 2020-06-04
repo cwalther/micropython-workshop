@@ -109,7 +109,7 @@ PewPew Library Reference
         Copied the ``source`` drawing surface onto this surface at location
         specified with ``dx`` and ``dy``.
 
-        If ``x``, ``y``, ``widht`` and ``height`` are specified, only copies
+        If ``x``, ``y``, ``width`` and ``height`` are specified, only copies
         that fragment of the ``source`` image, otherwise copies it whole.
 
         If ``key`` color is specified, that color is considered transparent
@@ -132,7 +132,20 @@ Vorschläge zum Einstieg::
 Schritt 1: Programm-Skelett
 ---------------------------
 
-*Mitschreiben:* Grundlegende Spiel-Schleife.
+*Mitschreiben im Programm:* Grundlegende Spiel-Schleife. ::
+
+   import pew
+
+   pew.init()
+   screen = pew.Pix()
+
+   while True:
+       k = pew.keys()
+       # modify state
+
+       # draw on screen
+       pew.show(screen)
+       pew.tick(0.15)
 
 *Neues:* Kommentare
 
@@ -144,3 +157,5 @@ Mit ctrl-C kommst du aus der unendlichen Schleife auf den REPL-Prompt zurück. W
 
    >>> import sys
    >>> del sys.modules['four']
+
+Nebst ctrl-C gibt es noch einen zweiten Weg, ein PewPew-Programm zu beenden: Drücke auf dem Gerät alle vier Richtungstasten gleichzeitig. Dadurch wird ein Fehler namens ``GameOver`` ausgelöst, der das Programm abbricht. Dem Traceback auf der REPL ist zu entnehmen, dass der Fehler aus der Funktion ``keys`` in ``pew.py`` kommt. Diese Methode funktionert also nur bei Programmen, die regelmässig ``pew.keys()`` aufrufen.

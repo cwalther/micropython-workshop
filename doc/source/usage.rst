@@ -62,9 +62,9 @@ Strings
 Strings (Zeichenketten) werden mit einfachen oder doppelten Anführungszeichen geschrieben, wobei die jeweils anderen Anführungszeichen darin vorkommen können, während die gleichen mit ``\`` geschützt werden müssen::
 
    >>> 'Hello World!'
-   'Hello World'
+   'Hello World!'
    >>> "Hello World!"
-   'Hello World'
+   'Hello World!'
    >>> 'Hello "World"!'
    'Hello "World"!'
    >>> 'Hello \'World\'!'
