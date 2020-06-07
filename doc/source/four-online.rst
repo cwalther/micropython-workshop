@@ -59,6 +59,8 @@ Schritt 14: Lobby abonnieren
 
 *Neues:* ``set`` (wie ``dict`` ohne Werte), Leerstring gilt als *false*
 
+*Stand des Programms:* https://github.com/cwalther/micropython-workshop-fourinarow/blob/s14/four.py
+
 Schritt 15: Lobby als Menu anzeigen
 -----------------------------------
 

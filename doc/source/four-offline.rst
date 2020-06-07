@@ -81,6 +81,8 @@ Schritt 10: Animation
 
 *Neues:* *Generator Function*, ``range()`` mit negativem Schritt, ``next()``, ``try … except``
 
+*Stand des Programms:* https://github.com/cwalther/micropython-workshop-fourinarow/blob/s10/four.py
+
 Schritt 11: Blinken
 -------------------
 
