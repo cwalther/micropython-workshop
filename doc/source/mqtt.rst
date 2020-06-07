@@ -60,7 +60,7 @@ Das API von ``umqtt.simple`` ist summarisch dokumentiert auf https://github.com/
 
   sagt, dass ein Aufruf lauten kann ::
   
-     myclient = MQTTClient('my-client-id', 'mqtt.example.com', 1883)
+     myclient = umqtt.simple.MQTTClient('', 'mqtt.kolleegium.ch')
 
 Zu beachten ist, dass gemäss dem Abschnitt *API design* der Dokumentation Topic-Namen und andere Strings nicht als Strings, sondern als Byte-Folgen ein- und ausgegeben werden, um Konversionsaufwand zu vermeiden, da übers Netzwerk schliesslich Bytes gehen. Byte-Folgen werden in Python durch den Typ ``bytes`` repräsentiert und verhalten sich ziemlich ähnlich wie Strings, nur dass ihre Elemente eben Bytes und nicht Zeichen sind. ``bytes``-Objekte werden erzeugt durch Anführungszeichen mit einem vorangestellten ``b``, wobei die zwischen den Anführungszeichen stehenden Zeichen ASCII-kodiert werden und durch ASCII nicht abgedeckte Byte-Werte durch Escape-Sequenzen wie ``\xC4`` angegeben werden können.
 
