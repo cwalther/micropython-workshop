@@ -1,5 +1,7 @@
 # MicroPython auf ESP8266 für Python-Anfänger
 
+**In diesem Kurs lernst du die Programmiersprache Python kennen, indem du auf einer internetverbundenen Spielkonsole im Schlüsselanhängerformat ein Online-Spiel schreibst.**
+
 ![title](description-title.jpeg)
 
 _Der Kurs findet vorläufig online per Videokonferenz statt. Später ist geplant, ihn auch als Präsenzveranstaltung im FabLab durchzuführen._
@@ -15,8 +17,8 @@ Aus diesem Kurs nimmst du sowohl eine Allzweck-Entwicklerplatine als auch eine M
 #### Zielgruppe und Voraussetzungen:
 
 - Interessierte, eine neue Programmiersprache und ihren Einsatz auf einem Mikrocontroller zu lernen, ab 14 Jahren.
-- Du solltest schon in einer anderen Sprache programmiert haben. Du weisst, was eine Variable, eine Funktion, eine While-Schleife sind, wie Binärzahlen funktionieren und was der ASCII-Code ist.
-- Grundlagen über Elektronik und Mikrocontroller sind nicht Teil des Kurses. Vorkenntnisse sind nicht unbedingt nötig, da wir uns hauptsächlich mit der Programmierung, nicht mit der Elektronik beschäftigen, aber hilfreich, um zu verstehen, was abläuft. Wer den Arduino-Einführungskurs besucht hat oder seinen Inhalt beherrscht, ist bestens gerüstet.
+- Du solltest schon in einer anderen Sprache programmiert haben. Du hast auf Mac oder PC, Raspberry Pi oder Arduino, Webserver oder Browser eigene Projekte realisiert oder an Projekten mitgearbeitet. Du weisst beispielsweise, was eine Variable, eine Funktion, eine While-Schleife sind, dass es Strings (Zeichenketten) und Listen (Arrays) gibt, was Bits und Bytes sind, was die logische UND-Verknüpfung macht, wie Binärzahlen funktionieren und was der ASCII-Code ist.
+- Grundlagen über Elektronik und Mikrocontroller sind nicht Teil des Kurses. Vorkenntnisse sind nicht unbedingt nötig, da wir uns hauptsächlich mit der Programmierung, nicht mit der Elektronik beschäftigen, aber hilfreich, um zu verstehen, was abläuft. Wer den Arduino-Einführungskurs besucht hat oder seinen Inhalt beherrscht, ist in dieser Hinsicht bestens gerüstet.
 
 #### Inhaltsübersicht:
 
@@ -42,7 +44,7 @@ min. 3, max. 4 Personen (Online-Kurs), max. 6 Personen (Präsenzkurs)
 
 #### Kursdauer:
 
-- Vier Abende à 4 Stunden.
+- Vier Abende à 4 Stunden: zwei Mal pro Woche 18:00–22:00.
 - _Präsenzkurs:_ Optionaler Vorkurs, 2 Stunden, zum Zusammenlöten der Hardware (einfache Through-Hole-Teile). Wer nicht am Vorkurs teilnimmt, erhält ein vom Kursleiter gelötetes Teil.
 - _Online-Kurs:_ Kein Vorkurs, alle Teilnehmer erhalten fertig gelötete Teile per Post.
 
