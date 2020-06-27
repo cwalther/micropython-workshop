@@ -8,6 +8,9 @@ MQTT ist ein einfaches Publish/Subscribe-Protokoll, das häufig im Internet-of-T
 
 Publish/Subscribe bedeutet, dass Clients Meldungen austauschen, indem ein Client seine Meldung an einen Server schickt, auch *Broker* genannt, und dieser sie dann an alle interessierten anderen Clients weiterleitet. Dadurch muss der Sender nicht wissen, welches die Empfänger sind, was den Client-Code einfach und die benötigte Datenmenge auf dem Netzwerk klein macht. Eine Meldung besteht aus einem Thema (*Topic*), z.B. «Temperatur im Wohnzimmer», und einem Inhalt, z.B. «20.8 °C». Der Client in der Messstation wird solche Meldungen publizieren (*publish*). Der Client in der Anzeigestation wird dem Broker mitteilen, dass er an Meldungen zu diesem Thema interessiert ist (abonnieren, *subscribe*), und wird sie dann vom Broker weitergeleitet erhalten, bis er sich wieder abmeldet. Beide haben dafür eine ständige Verbindung zum Broker offen, wobei nicht zwischen Sendern und Empfängern unterschieden wird, es können alle Clients beides über dieselbe Verbindung tun.
 
+.. figure:: mqtt.*
+   :align: center
+
 Topics sind in Textform und haben eine hierarchische Struktur, getrennt durch ``/``, z.B.
 
 * ``wohnzimmer/temperatur``
