@@ -121,3 +121,5 @@ Schritt 22: Anzeigen, wer am Zug ist
 ------------------------------------
 
 *Übung:* Zeige dem lokalen Spieler an, wenn er am Zug ist, zum Beispiel mit einem Pixel in seiner Farbe im freien Bereich oben rechts.
+
+*Stand des Programms:* https://github.com/cwalther/micropython-workshop-fourinarow/blob/s22/four.py
