@@ -7,208 +7,176 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="mqtt.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   id="svg8"
+   width="154.2mm"
+   height="118.08772mm"
+   viewBox="0 0 154.2 118.08772"
    version="1.1"
-   viewBox="0 0 154.2 114.58772"
-   height="114.58772mm"
-   width="154.2mm">
+   id="svg8"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="mqtt.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
-       effect="fillet_chamfer"
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="false"
+       flexible="false"
+       chamfer_steps="1"
+       radius="2"
+       mode="F"
+       method="arc"
+       unit="mm"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
+       lpeversion="1"
+       is_visible="true"
        id="path-effect4663"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
-       unit="mm"
-       method="arc"
-       mode="F"
-       radius="2"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="false"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
+       effect="fillet_chamfer" />
     <marker
-       inkscape:collect="always"
-       inkscape:isstock="true"
-       style="overflow:visible"
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
        id="marker4519"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend">
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         id="path836"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path836" />
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
     </marker>
     <inkscape:path-effect
-       hide_knots="false"
-       only_selected="false"
-       apply_with_radius="true"
-       apply_no_radius="true"
-       use_knot_distance="false"
-       flexible="false"
-       chamfer_steps="1"
-       radius="2"
-       mode="F"
-       method="arc"
-       unit="mm"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
-       lpeversion="1"
-       is_visible="true"
+       effect="fillet_chamfer"
        id="path-effect4515"
-       effect="fillet_chamfer" />
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
+       unit="mm"
+       method="arc"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="false"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <marker
-       inkscape:collect="always"
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="marker4163"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
       <path
-         id="path4161"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4161" />
     </marker>
     <inkscape:path-effect
-       effect="fillet_chamfer"
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="false"
+       flexible="false"
+       chamfer_steps="1"
+       radius="2"
+       mode="F"
+       method="arc"
+       unit="mm"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
+       lpeversion="1"
+       is_visible="true"
        id="path-effect4159"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
-       unit="mm"
-       method="arc"
-       mode="F"
-       radius="2"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="false"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
+       effect="fillet_chamfer" />
     <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
+       inkscape:isstock="true"
+       style="overflow:visible"
        id="marker3961"
-       style="overflow:visible"
-       inkscape:isstock="true">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
       <path
-         id="path3959"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3959" />
     </marker>
     <inkscape:path-effect
-       effect="fillet_chamfer"
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="false"
+       flexible="false"
+       chamfer_steps="1"
+       radius="2"
+       mode="F"
+       method="arc"
+       unit="mm"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
+       lpeversion="1"
+       is_visible="true"
        id="path-effect3957"
-       is_visible="true"
-       lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
-       unit="mm"
-       method="arc"
-       mode="F"
-       radius="2"
-       chamfer_steps="1"
-       flexible="false"
-       use_knot_distance="false"
-       apply_no_radius="true"
-       apply_with_radius="true"
-       only_selected="false"
-       hide_knots="false" />
+       effect="fillet_chamfer" />
     <marker
-       inkscape:isstock="true"
-       style="overflow:visible"
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
        id="marker3795"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend">
+       style="overflow:visible"
+       inkscape:isstock="true">
       <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         id="path3793"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path3793" />
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
     </marker>
     <inkscape:path-effect
-       hide_knots="false"
-       only_selected="false"
-       apply_with_radius="true"
-       apply_no_radius="true"
-       use_knot_distance="false"
-       flexible="false"
-       chamfer_steps="1"
-       radius="2"
-       mode="F"
-       method="arc"
-       unit="mm"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       lpeversion="1"
-       is_visible="true"
+       effect="fillet_chamfer"
        id="path-effect3791"
-       effect="fillet_chamfer" />
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="mm"
+       method="arc"
+       mode="F"
+       radius="2"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="false"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
     <marker
-       inkscape:collect="always"
-       inkscape:isstock="true"
-       style="overflow:visible"
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
        id="marker3679"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend">
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
-         transform="scale(-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         id="path3677"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path3677" />
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
     </marker>
     <inkscape:path-effect
-       hide_knots="false"
-       only_selected="false"
-       apply_with_radius="true"
-       apply_no_radius="true"
-       use_knot_distance="false"
-       flexible="false"
-       chamfer_steps="1"
-       radius="2"
-       mode="F"
-       method="arc"
-       unit="mm"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
-       lpeversion="1"
-       is_visible="true"
+       effect="fillet_chamfer"
        id="path-effect3675"
-       effect="fillet_chamfer" />
-    <marker
-       inkscape:collect="always"
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker3583"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path3581"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect3579"
        is_visible="true"
        lpeversion="1"
        satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
@@ -223,6 +191,21 @@
        apply_with_radius="true"
        only_selected="false"
        hide_knots="false" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker3583"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3581" />
+    </marker>
     <inkscape:path-effect
        hide_knots="false"
        only_selected="false"
@@ -235,31 +218,17 @@
        mode="F"
        method="arc"
        unit="mm"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
        lpeversion="1"
        is_visible="true"
+       id="path-effect3579"
+       effect="fillet_chamfer" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
        id="path-effect3537"
-       effect="fillet_chamfer" />
-    <marker
-       inkscape:stockid="Arrow2Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker3038"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path3036"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="scale(-0.6)" />
-    </marker>
-    <inkscape:path-effect
-       effect="fillet_chamfer"
-       id="path-effect3034"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
        unit="mm"
        method="arc"
        mode="F"
@@ -272,10 +241,9 @@
        only_selected="false"
        hide_knots="false" />
     <marker
-       inkscape:collect="always"
        inkscape:isstock="true"
        style="overflow:visible"
-       id="marker2958"
+       id="marker3038"
        refX="0"
        refY="0"
        orient="auto"
@@ -284,7 +252,7 @@
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2956" />
+         id="path3036" />
     </marker>
     <inkscape:path-effect
        hide_knots="false"
@@ -301,29 +269,29 @@
        satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
        lpeversion="1"
        is_visible="true"
-       id="path-effect2954"
+       id="path-effect3034"
        effect="fillet_chamfer" />
     <marker
-       inkscape:collect="always"
        inkscape:stockid="Arrow2Mend"
        orient="auto"
        refY="0"
        refX="0"
-       id="marker2886"
+       id="marker2958"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
-         id="path2884"
+         id="path2956"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          transform="scale(-0.6)" />
     </marker>
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect2882"
+       id="path-effect2954"
        is_visible="true"
        lpeversion="1"
-       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.0000003,0,1 @ F,0,0,1,0,0,0,1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2,0,1 @ F,0,0,1,0,0,0,1"
        unit="mm"
        method="arc"
        mode="F"
@@ -336,54 +304,86 @@
        only_selected="false"
        hide_knots="false" />
     <marker
-       inkscape:collect="always"
        inkscape:isstock="true"
        style="overflow:visible"
-       id="Arrow2Mend"
+       id="marker2886"
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="Arrow2Mend">
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
       <path
          transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         id="path2467" />
+         id="path2884" />
+    </marker>
+    <inkscape:path-effect
+       hide_knots="false"
+       only_selected="false"
+       apply_with_radius="true"
+       apply_no_radius="true"
+       use_knot_distance="false"
+       flexible="false"
+       chamfer_steps="1"
+       radius="2"
+       mode="F"
+       method="arc"
+       unit="mm"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.0000003,0,1 @ F,0,0,1,0,0,0,1"
+       lpeversion="1"
+       is_visible="true"
+       id="path-effect2882"
+       effect="fillet_chamfer" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path2467"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)" />
     </marker>
   </defs>
   <sodipodi:namedview
-     fit-margin-bottom="1"
-     fit-margin-right="1"
-     fit-margin-top="1"
-     lock-margins="true"
-     fit-margin-left="1"
-     inkscape:window-maximized="0"
-     inkscape:window-y="23"
-     inkscape:window-x="0"
-     inkscape:window-height="954"
-     inkscape:window-width="1585"
-     inkscape:snap-text-baseline="true"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="262.50568"
-     inkscape:cx="308.90987"
-     inkscape:zoom="1.4142136"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base">
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="294.64441"
+     inkscape:cy="231.3152"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1585"
+     inkscape:window-height="954"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     fit-margin-left="1"
+     lock-margins="true"
+     fit-margin-top="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1">
     <inkscape:grid
-       originy="0"
-       originx="0"
-       empspacing="10"
-       spacingy="0.5"
-       spacingx="0.5"
+       type="xygrid"
        id="grid839"
-       type="xygrid" />
+       spacingx="0.5"
+       spacingy="0.5"
+       empspacing="10"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -393,647 +393,648 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(27,-12)"
-     id="layer1"
+     inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     inkscape:label="Ebene 1">
+     id="layer1"
+     transform="translate(27,-12)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 38.5,75 40,76.5 V 78 l 0.5,-0.5 v -1 L 42,75 Z"
+       sodipodi:nodetypes="ccccccc"
        id="path2352"
-       sodipodi:nodetypes="ccccccc" />
+       d="M 36.5,78.5 38,80 v 1.5 L 38.5,81 V 80 L 40,78.5 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="42.5"
+       x="35.5"
+       height="42.5"
+       width="5.5"
        id="rect2354"
-       width="5.5"
-       height="39"
-       x="37.5"
-       y="42.5" />
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       transform="rotate(-90)"
+       id="text2358"
+       y="89"
+       x="-71.5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="-68"
-       y="91"
-       id="text2358"><tspan
-         sodipodi:role="line"
+       transform="rotate(-90)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
+         y="89"
+         x="-71.5"
          id="tspan2356"
-         x="-68"
-         y="91"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">+/temperatur</tspan></text>
+         sodipodi:role="line">+/temperatur</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 88.5,75 90,76.5 V 78 l 0.5,-0.5 v -1 L 92,75 Z"
+       sodipodi:nodetypes="ccccccc"
        id="path2360"
-       sodipodi:nodetypes="ccccccc" />
+       d="M 86.5,78.5 88,80 v 1.5 L 88.5,81 V 80 L 90,78.5 Z"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect2362"
+       y="42.5"
+       x="85.5"
+       height="42.5"
        width="5.5"
-       height="39"
-       x="87.5"
-       y="42.5" />
+       id="rect2362"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       transform="translate(-21,-0.5)"
-       id="g3941">
-      <text
-         id="text2400"
-         y="28"
-         x="59"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
-           y="28"
-           x="59"
-           id="tspan2398"
-           sodipodi:role="line">wohnzimmer/temperatur</tspan></text>
-      <text
-         id="text2404"
-         y="24"
-         x="59"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
-           y="24"
-           x="59"
-           id="tspan2402"
-           sodipodi:role="line">RETAINED MESSAGES</tspan></text>
+       id="g3941"
+       transform="translate(-23.5,-0.5)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="96.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="54.5"
          y="28"
-         id="text2408"><tspan
+         id="text2400"><tspan
            sodipodi:role="line"
-           id="tspan2406"
-           x="96.5"
+           id="tspan2398"
+           x="54.5"
            y="28"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">20.8</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">wohnzimmer/temperatur</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="54.5"
+         y="24.200001"
+         id="text2404"><tspan
+           sodipodi:role="line"
+           id="tspan2402"
+           x="54.5"
+           y="24.200001"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">RETAINED MESSAGES</tspan></text>
+      <text
+         id="text2408"
+         y="28"
+         x="96.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
+           y="28"
+           x="96.5"
+           id="tspan2406"
+           sodipodi:role="line">20.8</tspan></text>
       <rect
-         y="22"
-         x="57.5"
-         height="12"
-         width="46.5"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect2422"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cc"
-         id="path2424"
-         d="M 57.5,25 H 104"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cc"
-         id="path2426"
-         d="m 95,25 v 8.999999"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         width="52.000004"
+         height="12"
+         x="52.999996"
+         y="22" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 57.5,29.5 H 104"
-         id="path2428"
+         d="m 53,25 h 52"
+         id="path2424"
          sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 95,25 v 8.999999"
+         id="path2426"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2428"
+         d="m 53,29.5 52,0"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text2432"
+         y="32.5"
+         x="54.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
+           y="32.5"
+           x="54.5"
+           id="tspan2430"
+           sodipodi:role="line">schlafzimmer/temperatur</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="59"
-         y="32.5"
-         id="text2432"><tspan
-           sodipodi:role="line"
-           id="tspan2430"
-           x="59"
-           y="32.5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">schlafzimmer/temperatur</tspan></text>
-      <text
-         id="text2436"
-         y="32.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="96.5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
-           y="32.5"
-           x="96.5"
+         y="32.5"
+         id="text2436"><tspan
+           sodipodi:role="line"
            id="tspan2434"
-           sodipodi:role="line">19.1</tspan></text>
+           x="96.5"
+           y="32.5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">19.1</tspan></text>
     </g>
     <path
-       inkscape:original-d="M 10,82.5 V 70 h 30 v 3.5"
-       inkscape:path-effect="#path-effect3537"
-       sodipodi:nodetypes="cccc"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 8,86 V 75.5 a 2,2 135 0 1 2,-2 h 26 a 2,2 45 0 1 2,2 V 77"
        id="path2438"
-       d="M 10,82.5 V 72 a 2,2 135 0 1 2,-2 h 26 a 2,2 45 0 1 2,2 v 1.5"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+       sodipodi:nodetypes="cccc"
+       inkscape:path-effect="#path-effect3537"
+       inkscape:original-d="M 8,86 V 73.5 H 38 V 77" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2886)"
-       d="m 64.5,70 4,-10e-7 a 2,2 44.999995 0 1 2,2 V 73.5"
-       id="path2880"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="m 62.5,73.5 6,-10e-7 V 77"
        inkscape:path-effect="#path-effect2882"
-       inkscape:original-d="m 64.5,70 6,-10e-7 V 73.5"
+       id="path2880"
+       d="m 62.5,73.5 4,-10e-7 a 2,2 44.999995 0 1 2,2 V 77"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2886)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2958)"
+       d="M 37.5,73.5 H 61 a 2,2 45 0 1 2,2 V 77"
+       id="path2952"
+       inkscape:path-effect="#path-effect2954"
+       inkscape:original-d="M 37.5,73.5 H 63 V 77"
        sodipodi:nodetypes="ccc" />
     <path
        sodipodi:nodetypes="ccc"
-       inkscape:original-d="M 39.5,70 H 65 v 3.5"
-       inkscape:path-effect="#path-effect2954"
-       id="path2952"
-       d="M 39.5,70 H 63 a 2,2 45 0 1 2,2 v 1.5"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2958)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3038)"
-       d="m 70,70 h 18 a 2,2 45 0 1 2,2 v 1.5"
-       id="path3032"
+       inkscape:original-d="M 68,73.5 H 88 V 77"
        inkscape:path-effect="#path-effect3034"
-       inkscape:original-d="m 70,70 h 20 v 3.5"
-       sodipodi:nodetypes="ccc" />
+       id="path3032"
+       d="m 68,73.5 h 18 a 2,2 45 0 1 2,2 V 77"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3038)" />
     <g
+       transform="translate(-2,3.5)"
        id="g4329">
       <text
-         id="text3216"
-         y="80.5"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="64"
+         y="80.5"
+         id="text3216"><tspan
+           sodipodi:role="line"
+           id="tspan3214"
+           x="64"
+           y="80.5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">✓</tspan></text>
+      <text
+         transform="rotate(-90)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-68"
+         y="66"
+         id="text3272"><tspan
+           sodipodi:role="line"
+           id="tspan3270"
+           x="-68"
+           y="66"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">wohnzimmer/#</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 63.5,75 65,76.5 V 78 l 0.5,-0.5 v -1 L 67,75 Z"
+         id="path3274"
+         sodipodi:nodetypes="ccccccc" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3276"
+         width="5.5"
+         height="42.5"
+         x="62.5"
+         y="39" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3286"
+       width="22.5"
+       height="10"
+       x="53"
+       y="113.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-71.5"
+       y="39"
+       id="text3330"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan3328"
+         x="-71.5"
+         y="39"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">küche/temperatur</tspan></text>
+    <g
+       id="g4321"
+       transform="translate(-3,3.5)">
+      <text
+         id="text3220"
+         y="80.5"
+         x="70.5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
            y="80.5"
-           x="64"
-           id="tspan3214"
-           sodipodi:role="line">✓</tspan></text>
+           x="70.5"
+           id="tspan3218"
+           sodipodi:role="line">✗</tspan></text>
       <text
-         id="text3272"
-         y="66"
+         transform="rotate(-90)"
+         id="text3282"
+         y="72.5"
          x="-68"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"
-         transform="rotate(-90)"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
-           y="66"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
+           y="72.5"
            x="-68"
-           id="tspan3270"
-           sodipodi:role="line">wohnzimmer/#</tspan></text>
+           id="tspan3280"
+           sodipodi:role="line">schlafzimmer/#</tspan></text>
       <path
          sodipodi:nodetypes="ccccccc"
-         id="path3274"
-         d="M 63.5,75 65,76.5 V 78 l 0.5,-0.5 v -1 L 67,75 Z"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <rect
-         y="42.5"
-         x="62.5"
-         height="39"
-         width="5.5"
-         id="rect3276"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <rect
-       y="110"
-       x="55"
-       height="10"
-       width="22.5"
-       id="rect3286"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <text
-       transform="rotate(-90)"
-       id="text3330"
-       y="41"
-       x="-68"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
-         y="41"
-         x="-68"
-         id="tspan3328"
-         sodipodi:role="line">küche/temperatur</tspan></text>
-    <g
-       transform="translate(-1)"
-       id="g4321">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="70.5"
-         y="80.5"
-         id="text3220"><tspan
-           sodipodi:role="line"
-           id="tspan3218"
-           x="70.5"
-           y="80.5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">✗</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="-68"
-         y="72.5"
-         id="text3282"
-         transform="rotate(-90)"><tspan
-           sodipodi:role="line"
-           id="tspan3280"
-           x="-68"
-           y="72.5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">schlafzimmer/#</tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 70,75 1.5,1.5 V 78 L 72,77.5 v -1 L 73.5,75 Z"
          id="path3284"
-         sodipodi:nodetypes="ccccccc" />
+         d="m 70,75 1.5,1.5 V 78 L 72,77.5 v -1 L 73.5,75 Z"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <rect
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect3332"
-         width="5.5"
-         height="39"
+         y="39"
          x="69"
-         y="42.5" />
+         height="42.5"
+         width="5.5"
+         id="rect3332"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <rect
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="113.5"
+       x="78"
+       height="10"
+       width="22.5"
        id="rect3545"
-       width="22.5"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       y="113.5"
+       x="3"
        height="10"
-       x="80"
-       y="110" />
+       width="22.5"
+       id="rect3547"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect3547"
-       width="22.5"
-       height="10"
-       x="5"
-       y="110" />
-    <rect
-       y="110"
-       x="30"
-       height="10"
-       width="22.5"
        id="rect3549"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       width="22.5"
+       height="10"
+       x="28"
+       y="113.5" />
     <text
-       id="text3553"
-       y="80.5"
-       x="89"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="87"
+       y="84"
+       id="text3553"><tspan
+         sodipodi:role="line"
+         id="tspan3551"
+         x="87"
+         y="84"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">✓</tspan></text>
+    <text
+       id="text3557"
+       y="84"
+       x="37"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
-         y="80.5"
-         x="89"
-         id="tspan3551"
-         sodipodi:role="line">✓</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="39"
-       y="80.5"
-       id="text3557"><tspan
-         sodipodi:role="line"
+         y="84"
+         x="37"
          id="tspan3555"
-         x="39"
-         y="80.5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">✗</tspan></text>
+         sodipodi:role="line">✗</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3583)"
-       d="m 65,82.5 v 26"
-       id="path3577"
+       sodipodi:nodetypes="cc"
+       inkscape:original-d="m 63,86 v 26"
        inkscape:path-effect="#path-effect3579"
-       inkscape:original-d="m 65,82.5 v 26"
+       id="path3577"
+       d="m 63,86 v 26"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3583)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3679)"
+       d="m 88,86 v 26"
+       id="path3673"
+       inkscape:path-effect="#path-effect3675"
+       inkscape:original-d="m 88,86 v 26"
        sodipodi:nodetypes="cc" />
     <path
-       sodipodi:nodetypes="cc"
-       inkscape:original-d="m 90,82.5 v 26"
-       inkscape:path-effect="#path-effect3675"
-       id="path3673"
-       d="m 90,82.5 v 26"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3679)" />
-    <path
-       inkscape:path-effect="#path-effect3791"
-       inkscape:original-d="M 10,109 V 85"
-       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3795)"
+       d="m 8,114.5 v -26"
        id="path3789"
-       d="M 10,109 V 85"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3795)" />
-    <text
-       id="text3921"
-       y="92.5"
-       x="6.5"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:end;text-anchor:end;stroke-width:0.264583"
-         y="92.5"
-         x="6.5"
-         id="tspan3919"
-         sodipodi:role="line">publish</tspan></text>
+       sodipodi:nodetypes="cc"
+       inkscape:original-d="m 8,114.5 v -26"
+       inkscape:path-effect="#path-effect3791" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="102"
-       y="92.5"
-       id="text3925"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="4.5"
+       y="96"
+       id="text3921"><tspan
          sodipodi:role="line"
+         id="tspan3919"
+         x="4.5"
+         y="96"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:end;text-anchor:end;stroke-width:0.264583">publish</tspan></text>
+    <text
+       id="text3925"
+       y="96"
+       x="100"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+         y="96"
+         x="100"
          id="tspan3923"
-         x="102"
-         y="92.5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">subscribe</tspan></text>
+         sodipodi:role="line">subscribe</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3961)"
-       d="M 10,70.5 V 29 a 2,2 135 0 1 2,-2 h 23"
-       id="path3955"
-       sodipodi:nodetypes="ccc"
+       inkscape:original-d="M 8,74 V 27 h 20"
        inkscape:path-effect="#path-effect3957"
-       inkscape:original-d="M 10,70.5 V 27 h 25" />
+       sodipodi:nodetypes="ccc"
+       id="path3955"
+       d="M 8,74 V 29 a 2,2 135 0 1 2,-2 h 18"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3961)" />
     <rect
-       y="18.5"
-       x="5"
-       height="65"
-       width="110.5"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4075"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       width="110.5"
+       height="68.5"
+       x="3"
+       y="18.5" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4163)"
-       d="M 98.5,109 V 78.5 a 2,2 45 0 0 -2,-2 H 95"
-       id="path4157"
+       sodipodi:nodetypes="ccc"
+       inkscape:original-d="M 96.5,114.5 96.5,80 H 93"
        inkscape:path-effect="#path-effect4159"
-       inkscape:original-d="M 98.5,109 V 76.5 H 95"
-       sodipodi:nodetypes="ccc" />
+       id="path4157"
+       d="M 96.5,114.5 V 82 a 2,2 45 0 0 -2,-2 H 93"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4163)" />
     <g
-       transform="translate(7.5)"
-       id="g4433">
-      <text
-         id="text4311"
-         y="38.5"
-         x="6.5000038"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
-           y="38.5"
-           x="6.5000038"
-           id="tspan4309"
-           sodipodi:role="line">SUBSCRIPTIONS</tspan></text>
+       id="g4433"
+       transform="translate(5.5)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          x="6.5000038"
-         y="41.5"
-         id="text4357"><tspan
+         y="38.700001"
+         id="text4311"><tspan
            sodipodi:role="line"
-           id="tspan4355"
+           id="tspan4309"
            x="6.5000038"
-           y="41.5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">A</tspan></text>
+           y="38.700001"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">SUBSCRIPTIONS</tspan></text>
+      <text
+         id="text4357"
+         y="41.700001"
+         x="6.5000038"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+           y="41.700001"
+           x="6.5000038"
+           id="tspan4355"
+           sodipodi:role="line">A</tspan></text>
       <rect
-         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-         id="rect4359"
-         width="100"
-         height="6"
+         y="36.5"
          x="5"
-         y="36.5" />
+         height="6"
+         width="100"
+         id="rect4359"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+      <path
+         id="path4398"
+         d="M 5,39.5 H 105"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4400"
+         d="m 30,39.5 v 3"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 5,39.5 H 105"
-         id="path4398" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 30,39.5 v 3"
-         id="path4400"
+         d="m 55,39.5 v 3"
+         id="path4402"
          sodipodi:nodetypes="cc" />
       <path
          sodipodi:nodetypes="cc"
-         id="path4402"
-         d="m 55,39.5 v 3"
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 80,39.5 v 3"
          id="path4404"
-         sodipodi:nodetypes="cc" />
-      <text
-         id="text4408"
-         y="41.5"
-         x="31.5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
-           y="41.5"
-           x="31.5"
-           id="tspan4406"
-           sodipodi:role="line">B</tspan></text>
+         d="m 80,39.5 v 3"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="56.5"
-         y="41.5"
-         id="text4412"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="31.5"
+         y="41.700001"
+         id="text4408"><tspan
            sodipodi:role="line"
-           id="tspan4410"
-           x="56.5"
-           y="41.5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">C</tspan></text>
+           id="tspan4406"
+           x="31.5"
+           y="41.700001"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">B</tspan></text>
       <text
-         id="text4416"
-         y="41.5"
-         x="81.5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         id="text4412"
+         y="41.700001"
+         x="56.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
-           y="41.5"
-           x="81.5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+           y="41.700001"
+           x="56.5"
+           id="tspan4410"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="81.5"
+         y="41.700001"
+         id="text4416"><tspan
+           sodipodi:role="line"
            id="tspan4414"
-           sodipodi:role="line">D</tspan></text>
+           x="81.5"
+           y="41.700001"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">D</tspan></text>
     </g>
     <text
-       xml:space="preserve"
+       id="text4455"
+       y="119.51561"
+       x="14.236219"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="16.236219"
-       y="116.01561"
-       id="text4455"><tspan
-         sodipodi:role="line"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="119.51561"
+         x="14.236219"
          id="tspan4453"
-         x="16.236219"
-         y="116.01561"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">A</tspan></text>
+         sodipodi:role="line">A</tspan></text>
     <text
-       id="text4459"
-       y="116.01561"
-       x="41.236221"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="116.01561"
-         x="41.236221"
+       x="39.236221"
+       y="119.51561"
+       id="text4459"><tspan
+         sodipodi:role="line"
          id="tspan4457"
-         sodipodi:role="line">B</tspan></text>
+         x="39.236221"
+         y="119.51561"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">B</tspan></text>
     <text
-       id="text4463"
-       y="116.01561"
-       x="66.236221"
+       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="116.01561"
-         x="66.236221"
+       x="64.236221"
+       y="119.51561"
+       id="text4463"><tspan
+         sodipodi:role="line"
          id="tspan4461"
-         sodipodi:role="line">C</tspan></text>
+         x="64.236221"
+         y="119.51561"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">C</tspan></text>
     <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="91.236221"
-       y="116.01561"
-       id="text4467"><tspan
-         sodipodi:role="line"
-         id="tspan4465"
-         x="91.236221"
-         y="116.01561"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">D</tspan></text>
-    <text
-       id="text4489"
-       y="15"
-       x="60"
+       id="text4467"
+       y="119.51561"
+       x="89.236221"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
-         y="15"
-         x="60"
-         id="tspan4487"
-         sodipodi:role="line">Broker</tspan></text>
+         y="119.51561"
+         x="89.236221"
+         id="tspan4465"
+         sodipodi:role="line">D</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="60"
-       y="125.5"
-       id="text4493"><tspan
+       x="58"
+       y="15"
+       id="text4489"><tspan
          sodipodi:role="line"
+         id="tspan4487"
+         x="58"
+         y="15"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Broker</tspan></text>
+    <text
+       id="text4493"
+       y="129"
+       x="58"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         y="129"
+         x="58"
          id="tspan4491"
-         x="60"
-         y="125.5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';text-align:center;text-anchor:middle;stroke-width:0.264583">Clients</tspan></text>
+         sodipodi:role="line">Clients</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4519)"
+       d="m 83,31.5 h 3 a 2,2 45 0 1 2,2 V 35"
+       id="path4513"
+       inkscape:path-effect="#path-effect4515"
+       inkscape:original-d="m 83,31.5 h 5 V 35"
+       sodipodi:nodetypes="ccc" />
     <path
        sodipodi:nodetypes="ccc"
-       inkscape:original-d="M 84.5,31.5 H 90 V 35"
-       inkscape:path-effect="#path-effect4515"
-       id="path4513"
-       d="M 84.5,31.5 H 88 a 2,2 45 0 1 2,2 V 35"
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker4519)" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 84.5,27 H 88 a 2,2 45 0 1 2,2 v 3"
-       id="path4661"
+       inkscape:original-d="m 83,27 h 5 v 5"
        inkscape:path-effect="#path-effect4663"
-       inkscape:original-d="M 84.5,27 H 90 v 5"
-       sodipodi:nodetypes="ccc" />
+       id="path4661"
+       d="m 83,27 h 3 a 2,2 45 0 1 2,2 v 3"
+       style="fill:none;stroke:#000000;stroke-width:0.35;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;stroke-opacity:1" />
     <g
-       transform="translate(-42,48)"
-       id="g3481">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect2392"
-         width="40.5"
-         height="9"
-         x="16"
-         y="47" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="23.5"
-         y="50"
-         id="text2366"><tspan
-           sodipodi:role="line"
-           id="tspan2364"
-           x="23.5"
-           y="50"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">wohnzimmer/temperatur</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="17.5"
-         y="50"
-         id="text2374"><tspan
-           sodipodi:role="line"
-           id="tspan2372"
-           x="17.5"
-           y="50"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">TOPIC</tspan></text>
-      <text
-         id="text2378"
-         y="54.5"
-         x="26"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
-           y="54.5"
-           x="26"
-           id="tspan2376"
-           sodipodi:role="line">20.8</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="53"
-         y="54.5"
-         id="text2382"><tspan
-           sodipodi:role="line"
-           id="tspan2380"
-           x="53"
-           y="54.5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">✓</tspan></text>
-      <text
-         id="text2386"
-         y="54.5"
-         x="17.5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
-           y="54.5"
-           x="17.5"
-           id="tspan2384"
-           sodipodi:role="line">CONTENT</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="46.5"
-         y="54.5"
-         id="text2390"><tspan
-           sodipodi:role="line"
-           id="tspan2388"
-           x="46.5"
-           y="54.5"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">RETAIN</tspan></text>
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 16,51.5 H 56.5"
-         id="path2394"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 45,51.5 v 4.499999"
-         id="path2396"
-         sodipodi:nodetypes="cc" />
-    </g>
-    <g
-       id="g4143"
-       transform="translate(78,48)">
+       id="g3481"
+       transform="translate(-42,51.5)">
       <rect
          y="47"
          x="16"
-         height="4.5"
-         width="32"
-         id="rect4137"
+         height="9"
+         width="45.5"
+         id="rect2392"
          style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <text
-         id="text4115"
+         id="text2366"
          y="50"
-         x="28.5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="24.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
            y="50"
-           x="28.5"
-           id="tspan4113"
-           sodipodi:role="line">+/temperatur</tspan></text>
+           x="24.5"
+           id="tspan2364"
+           sodipodi:role="line">wohnzimmer/temperatur</tspan></text>
       <text
-         id="text4119"
+         id="text2374"
          y="50"
          x="17.5"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
            y="50"
            x="17.5"
+           id="tspan2372"
+           sodipodi:role="line">TOPIC</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="27.5"
+         y="54.5"
+         id="text2378"><tspan
+           sodipodi:role="line"
+           id="tspan2376"
+           x="27.5"
+           y="54.5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">20.8</tspan></text>
+      <text
+         id="text2382"
+         y="54.5"
+         x="57.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583"
+           y="54.5"
+           x="57.5"
+           id="tspan2380"
+           sodipodi:role="line">✓</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="17.5"
+         y="54.5"
+         id="text2386"><tspan
+           sodipodi:role="line"
+           id="tspan2384"
+           x="17.5"
+           y="54.5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">CONTENT</tspan></text>
+      <text
+         id="text2390"
+         y="54.5"
+         x="50"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583"
+           y="54.5"
+           x="50"
+           id="tspan2388"
+           sodipodi:role="line">RETAIN</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2394"
+         d="M 16,51.5 H 61.5"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2396"
+         d="m 48.5,51.5 v 4.499999"
+         style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(78,51.5)"
+       id="g4143">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect4137"
+         width="36"
+         height="4.5"
+         x="12"
+         y="47" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="26.5"
+         y="50"
+         id="text4115"><tspan
+           sodipodi:role="line"
+           id="tspan4113"
+           x="26.5"
+           y="50"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583">+/temperatur</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="13.5"
+         y="50"
+         id="text4119"><tspan
+           sodipodi:role="line"
            id="tspan4117"
-           sodipodi:role="line">TOPIC FILTER</tspan></text>
+           x="13.5"
+           y="50"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;font-family:Helvetica;-inkscape-font-specification:'Helvetica Bold';stroke-width:0.264583">TOPIC FILTER</tspan></text>
     </g>
   </g>
 </svg>
