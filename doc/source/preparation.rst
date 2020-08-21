@@ -20,6 +20,7 @@ Einfache Installation
 Wer unsicher ist, ist mit dieser Software gut bedient. Wer sich weniger reinreden lassen will, findet im nächsten Abschnitt weitere Optionen.
 
 * **Python**. Lade die neuste Version 3.x von https://www.python.org/downloads/ herunter oder (Linux) installiere sie vom Paketmanager deines Systems (inklusive ``pip``, welches möglicherweise ein separates Paket im Paketmanager ist).
+  Windows: Aktiviere auf der ersten Seite des Installers die Option «Add Python 3.x to PATH», sonst funktioniert der nächste Schritt nicht.
 
 * **esptool.py** wird installiert mit ``pip install esptool`` im Kommandozeilen-Terminal deines Systems. Wenn du mit ``esptool.py -h`` den Hilfetext aufrufen kannst, ist die Installation in Ordnung.
 
