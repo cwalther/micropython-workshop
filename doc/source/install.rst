@@ -3,7 +3,7 @@ MicroPython installieren
 
 Schliesse das Feather-Board, noch ohne aufgesetztes PewPew, mit dem USB-Kabel an deinen Computer an.
 
-Lade von http://micropython.org/download unter *Firmware for ESP8266 boards* die aktuelle stabile Version herunter, zur Zeit *esp8266-20191220-v1.12.bin*.
+Lade von https://micropython.org/download/esp8266/ unter *2M or more of flash* die aktuelle stabile Version herunter, zur Zeit *esp8266-20210418-v1.15.bin*.
 
 Folge dann den Anweisungen im dort verlinkten Tutorial http://docs.micropython.org/en/latest/esp8266/tutorial/intro.html#deploying-the-firmware. In Kürze:
 
@@ -36,7 +36,7 @@ Drücke ctrl-D. Damit wird MicroPython neu gestartet, und du siehst einige Meldu
 
 .. code-block:: none
 
-   MicroPython v1.12 on 2019-12-20; ESP module with ESP8266
+   MicroPython v1.15 on 2021-04-18; ESP module with ESP8266
 
 Drücke den Reset-Knopf (*RST*) auf dem Feather-Board. Im Terminal erscheint eine Menge unverständlicher Zeichen. Das sind die Boot-Meldungen des ESP8266, sie können interessant sein, wenn etwas nicht funktioniert. Weil sie mit einer anderen Baud-Rate gesendet werden, kann das Terminal, das auf 115200 Baud eingestellt ist, sie nicht richtig erkennen. Verbinde stattdessen mit 74880 Baud, um sie zu sehen. Nicht alle Terminal-Programme können das, weil es keine Standard-Rate ist – eines, das es kann, ist *miniterm.py*, welches als Teil von pySerial mit esptool.py mitkommt:
 
@@ -81,4 +81,4 @@ Wenn der ESP8266 am Netzwerk ist, kann auf diesem Wege auch auf die REPL zugegri
 
 aus und folgst den Anweisungen, um ein Passwort zu setzen und die WebREPL beim Einschalten automatisch zu starten.
 
-Der Client, um auf die WebREPL zuzugreifen, kann von https://github.com/micropython/webrepl heruntergeladen werden (*Clone or download* ▸ *Download ZIP*). Öffne *webrepl.html* in einem Webbrowser. Alternativ kann auch http://micropython.org/webrepl verwendet werden. Setze die oben herausgefundene IP-Adresse anstelle von ``192.168.4.1`` ins Feld oben links auf der Seite ein (nicht ins Adressfeld des Browsers) und klicke *Connect*. Im schwarzen Terminal-Bereich erscheint eine Passwort-Abfrage. Gib dort das oben konfigurierte Passwort ein und bestätige mit Return, worauf der REPL-Prompt ``>>>`` erscheint. Du kannst dort nun arbeiten wie auf der seriellen REPL.
+Der Client, um auf die WebREPL zuzugreifen, kann von https://github.com/micropython/webrepl heruntergeladen werden (*Code* ▸ *Download ZIP*). Öffne *webrepl.html* in einem Webbrowser. Alternativ kann auch http://micropython.org/webrepl verwendet werden. Setze die oben herausgefundene IP-Adresse anstelle von ``192.168.4.1`` ins Feld oben links auf der Seite ein (nicht ins Adressfeld des Browsers) und klicke *Connect*. Im schwarzen Terminal-Bereich erscheint eine Passwort-Abfrage. Gib dort das oben konfigurierte Passwort ein und bestätige mit Return, worauf der REPL-Prompt ``>>>`` erscheint. Du kannst dort nun arbeiten wie auf der seriellen REPL.

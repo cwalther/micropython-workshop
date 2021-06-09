@@ -9,7 +9,7 @@ Protokolldesign
 +-------------------------------------------+--------+------------------------------------------+--------------------------------------------+
 | Topic                                     | retain | Inhalt                                   | abonniert als                              |
 +===========================================+========+==========================================+============================================+
-| ``fourinarow/lobby/``\ *SenderName*       |   ✓    | ``b'1'`` = präsent                       | ``fourinarow/lobby/+``                     |
+| ``fourinarow/lobby/``\ *SenderName*       |   ✓    | ``b'1'`` = präsent [#]_                  | ``fourinarow/lobby/+``                     |
 |                                           |        |                                          |                                            |
 |                                           |        | ``b''`` = weg (löscht beim Broker        |                                            |
 |                                           |        | gespeicherte Meldung) ← **letzter        |                                            |
@@ -22,6 +22,8 @@ Protokolldesign
 +-------------------------------------------+--------+------------------------------------------+                                            +
 | ``fourinarow/game/``\ *Name*\ ``/drop``   |        | Kolonne 0-6 als Byte                     |                                            |
 +-------------------------------------------+--------+------------------------------------------+--------------------------------------------+
+
+.. [#] Siehe auch https://github.com/mqtt/mqtt.org/wiki/presence.
 
 Dateien lesen und schreiben
 ---------------------------
@@ -44,7 +46,7 @@ Schritt 13: Präsenz in die Lobby publizieren
 
 *Neues:* ``import as``, ``try … finally``
 
-Solange unser eigenes Programm noch keine Meldungen empfängt, kann mit einem MQTT-Client auf dem Computer verfolgt werden, was auf dem Server läuft, z.B.
+*Nur für Kursleiter:* Solange unser eigenes Programm noch keine Meldungen empfängt, kann mit einem MQTT-Client auf dem Computer verfolgt werden, was auf dem Server läuft, z.B.
 
 .. code-block:: sh
 

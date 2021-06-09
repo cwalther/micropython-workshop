@@ -24,7 +24,7 @@ Wer unsicher ist, ist mit dieser Software gut bedient. Wer sich weniger reinrede
 
 * **esptool.py** wird installiert mit ``pip install esptool`` im Kommandozeilen-Terminal deines Systems. Wenn du mit ``esptool.py -h`` den Hilfetext aufrufen kannst, ist die Installation in Ordnung.
 
-* **Mu**, welches speziell für (Micro)Python gemacht ist, als **Text-Editor** und **serielles Terminal**. Lade von https://codewith.mu die Version 1.1.0 oder neuer herunter, zur Zeit erst als Alpha verfügbar – vorher fehlt die Integration von ESP-Mikrocontrollern.
+* **Mu**, welches speziell für (Micro)Python gemacht ist, als **Text-Editor** und **serielles Terminal**. Lade von https://codewith.mu die Version 1.1.0 oder neuer herunter (zur Zeit in Beta) – vorher fehlt die Integration von ESP-Mikrocontrollern.
 
 * Der **USB-Seriell-Treiber** von Silicon Labs: https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
 

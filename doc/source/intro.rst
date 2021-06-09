@@ -33,5 +33,7 @@ ESP32
 
 2016 brachte Espressif Systems den ESP32 auf den Markt, mit höherer Taktfrequenz, Dual-Core-CPU, mehr IOs und Bluetooth der «grosse Bruder» des ESP8266. Mittlerweile kostet er fast so wenig wie der ESP8266 und wird inzwischen auch in vielen Maker-Projekten eingesetzt, selbst wenn diese Leistung gar nicht immer nötig wäre. In diesem Kurs bleiben wir vorerst beim ESP8266, aus zwei Gründen:
 
-* Zur Zeit ist MicroPython auf dem ESP32 noch etwas weniger ausgereift als auf dem ESP8266. Das ist jedoch in Änderung begriffen.
+* Lange Zeit war MicroPython auf dem ESP32 noch etwas weniger ausgereift als auf dem ESP8266. Inzwischen ist die Unterstützung jedoch gut.
 * Der ESP32 braucht mehr Strom als der ESP8266.
+
+2020 kam der ESP32-S2 hinzu, mit nur einem Core und ohne Bluetooth, dafür mit USB. Er wird auch von CircuitPython unterstützt.
